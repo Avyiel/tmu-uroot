@@ -38,11 +38,17 @@ Example:
 
     # in .tmux.conf
     set -g status-right '#{username}#{root} | %a %h-%d %H:%M '
+    
+### Credit where credit is due
 
+This plugins is really just porting part of [gpakosz's .tmux](https://github.com/gpakosz/.tmux),
+which is published under the WTFPLv2 and MIT licenses.
+I also borrowed the interpolation part of the plugin from the excelent [tmux-plugins](https://github.com/tmux-plugins/)
+repository, which is also published under the MIT license.
 
 ### Maintainer
 
- - [Lucas Vienna](https://github.com/ctjhoa)
+ - [Lucas Vienna](https://github.com/Avyiel)
 
 ### License
 
