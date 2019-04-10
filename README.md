@@ -8,7 +8,7 @@ and `status-left`.
 
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-    set -g @plugin 'avyiel/tmux-uroot'
+    set -g @plugin 'Avyiel/tmux-uroot'
 
 Hit `prefix + I` to fetch the plugin and source it.
 
