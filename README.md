@@ -38,6 +38,9 @@ Example:
 
     # in .tmux.conf
     set -g status-right '#{username}#{root} | %a %h-%d %H:%M '
+
+
+---
     
 ### Credit where credit is due
 
